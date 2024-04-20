@@ -1,9 +1,11 @@
 # YouTube-search-in-new-tab
-Enhancer for YouTube™のカスタムスクリプトを使用して、
+Enhancer for YouTube™のカスタムスクリプトを使用して、  
 YouTubeの上部にある検索の列に「新しいタブで検索するボタン」を増やします
 
+### 視聴中に検索したい時、すぐに検索できるようになります！  
+
 > [!NOTE]
-> [Enhancer for Youtube™](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)拡張機能を先に入れてください
+> [Enhancer for Youtube™](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)拡張機能を先に入れてください  
 > 常時ダークモードだと見えにくくなるかもしれません...
 
 ## 使用方法
