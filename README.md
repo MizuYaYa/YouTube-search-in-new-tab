@@ -4,6 +4,7 @@ YouTubeの上部にある検索の列に「新しいタブで検索するボタ�
 
 > [!NOTE]
 > [Enhancer for Youtube™](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)拡張機能を先に入れてください
+> 常時ダークモードだと見えにくくなるかもしれません...
 
 ## 使用方法
 1. 下記にあるコードをすべてコピーします
