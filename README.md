@@ -9,7 +9,7 @@ YouTubeの上部にある検索の列に「新しいタブで検索するボタ�
 
 ## 使用方法
 1. 下記にあるコードをすべてコピーします
-https://github.com/MizuYaYa/YouTube-search-in-new-tab/blob/f03bfadaa56bade506cd3cedf96ef0b4fa1287b8/script.min.js#L1
+https://github.com/MizuYaYa/YouTube-search-in-new-tab/blob/0116c15c0821a7728321a9cd6e5b575aeea8cfde/script.min.js#L1
 
 3. Enhancer for YouTube™の設定に行き、一番下のカスタムスクリプトに
    コピーしたコードを貼って
