@@ -13,7 +13,7 @@ function createSearchInNewTabButton() {
     button.type = "button";
     button.classList.add("yt-spec-button-shape-next", "yt-spec-button-shape-next--text", "yt-spec-button-shape-next--mono", "yt-spec-button-shape-next--size-m", "yt-spec-button-shape-next--icon-only-default");
     button.onclick = () => {
-        window.open(`https://www.youtube.com/results?search_query=${document.querySelector('#search.ytd-searchbox').value}`);
+        window.open(`https://www.youtube.com/results?search_query=${document.querySelector('.yt-searchbox-input').value}`);
     };
     searchInNewTab.appendChild(button);
 
